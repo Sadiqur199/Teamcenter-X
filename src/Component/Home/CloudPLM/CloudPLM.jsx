@@ -5,9 +5,9 @@ import image7 from '../../../../public/image/img76-get-started-quickly-with-clou
 const CloudPLM = () => {
   return (
     <div className='bg-[#EBEBEE] mb-10 mt-20'>
-      <div className='px-[100px] '>
+      <div className='md:px-[100px] px-[10px]'>
         <div className='pt-[30px] pb-[10px]'>
-          <div className='flex justify-between'>
+          <div className='md:flex justify-between'>
             <div className='pt-[120px]'>
             <h1 className='font-bold text-2xl mb-5'>Get started quickly with Cloud PLM</h1>
             <p className='mb-5'>Start with what you need now to plan, develop and deliver innovative products. Get into <br /> production quickly with preconfigured best practices made for your industry.</p>

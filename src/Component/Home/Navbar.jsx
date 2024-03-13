@@ -30,7 +30,7 @@ const Navbar = () => {
       <li><a className='font-semibold'>Teamcenter X</a></li>
     </ul>
   </div>
-  <div className="navbar-end pr-[100px]">
+  <div className="navbar-end md:pr-[100px]">
     <a className="btn bg-[#00FFB9] font-bold hover:bg-[#C4FFEE]">Trials</a>
   </div>
 </div>

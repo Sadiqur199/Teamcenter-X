@@ -6,9 +6,9 @@ import { TbCloudLock } from "react-icons/tb";
 
 const Teamcenter = () => {
   return (
-    <div className='px-[100px] mt-20 mb-10'>
+    <div className='md:px-[100px] px-[10px] mt-20 mb-10'>
       <h1 className='text-3xl font-bold pt-14'>Why Teamcenter X?</h1>
-      <div className='flex justify-between'>
+      <div className='md:flex justify-between'>
       <div className='mt-7'>
       <FaPowerOff size={30} className='text-[#0098A6] mb-2'/>
       <h4 className='font-bold text-xl mb-2'>Fast SaaS PLM</h4>

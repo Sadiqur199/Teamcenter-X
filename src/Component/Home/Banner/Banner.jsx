@@ -7,12 +7,12 @@ import { BiSolidPhoneCall } from "react-icons/bi";
 
 const Banner = () => {
   return (
-    <div  style={{backgroundImage: 'linear-gradient(90deg, #000028, #0099ff)'}} className=' px-[80px] pt-5 pb-14 text-white'>
+    <div  style={{backgroundImage: 'linear-gradient(90deg, #000028, #0099ff)'}} className=' md:px-[80px] px-[10px] pt-5 pb-14 text-white'>
       <div className='flex'>
       <IoHomeOutline className='text-white mt-[1px]' size={20}/>
       <MdKeyboardArrowRight className='text-white' size={25}/>
       </div>
-      <div className='pt-[100px] flex justify-between'>
+      <div className='pt-[100px] md:flex justify-between'>
         <div className='pt-3 pr-[10px]'>
           <p className='text-sm mb-2'>TEAMCENTER</p>
           <h2 className='text-4xl mb-5'>Teamcenter X</h2>

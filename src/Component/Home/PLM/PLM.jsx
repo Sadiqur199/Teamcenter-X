@@ -6,11 +6,11 @@ import image5 from '../../../../public/image/plm-on-siemens-cloud-promo-640x480.
 
 const PLM = () => {
   return (
-    <div className='px-[100px]'>
+    <div className='md:px-[100px] px-[10px]'>
       <div>
         <h1 className='text-3xl font-bold pt-14 mb-5'>PLM your way</h1>
         <p>Get Teamcenter delivered any way you want it – on premises or on the cloud – operated by your IT team or Siemens.</p>
-        <div className='flex justify-between mt-14 mb-10'>
+        <div className='md:flex justify-between mt-14 mb-10'>
           <div className='border mr-5'>
             <img src={image3} alt="" className=''/>
             <div className='pl-5'>

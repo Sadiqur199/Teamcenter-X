@@ -2,8 +2,8 @@ import React from 'react';
 import image2 from '../../../../public/image/MicrosoftTeams-image (3).png'
 const Advantages = () => {
   return (
-    <div className='px-[100px] '>
-      <div className='flex justify-between'>
+    <div className='md:px-[100px] px-[10px] '>
+      <div className='md:flex md:justify-between'>
         <div className='mr-10'>
           <h1 className='text-3xl font-bold pt-14'>All of Teamcenter, with the advantages of SaaS</h1>
           <p className='mt-8 mb-5'>Choose any solution from the full Teamcenter portfolio. Software as a service (SaaS) delivery includes preconfigured  best practices to get you up and running quickly and cost effectively.</p>
